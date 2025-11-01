@@ -1,3 +1,5 @@
+# An Ensemble Learning Approach for Early Detection of Hepatitis C
+
 # Overview
 
 This project aims to develop a machine learning model for the early detection of liver disease. It leverages advanced preprocessing techniques and multiple machine learning algorithms to improve diagnostic accuracy and interpretability.
