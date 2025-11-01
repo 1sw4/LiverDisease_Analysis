@@ -96,7 +96,7 @@ Optuna — Hyperparameter optimization
 
 SHAP — Model interpretability
 
-🧾 Evaluation Metrics
+# Evaluation Metrics
 
 Accuracy
 
